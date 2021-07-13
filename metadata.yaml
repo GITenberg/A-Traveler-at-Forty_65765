@@ -1,0 +1,23 @@
+_repo: A-Traveler-at-Forty_65765
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dreiser, Theodore
+    birthdate: 1871
+    deathdate: 1945
+    gutenberg_agent_id: '130'
+    url: http://www.gutenberg.org/2009/agents/130
+    wikipedia: https://en.wikipedia.org/wiki/Theodore_Dreiser
+description: ''
+gutenberg_issued: '2021-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65765'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A Traveler at Forty
+url: http://www.gutenberg.org/ebooks/65765
